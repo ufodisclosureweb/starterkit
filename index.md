@@ -64,8 +64,8 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * Read "[Strange Skies: Pilot Encounters With UFOs](https://amazon.com/s?k=9780806522999)" 
 * Read "[UFOs & Nukes: Extraordinary Encounters at Nuclear Weapons Sites](https://amazon.com/UFOs-Nukes-Extraordinary-Encounters-Nuclear-ebook/dp/B084DJMQ4S)" 
 * Watch "[Unidentified: Inside America’s UFO Investigation](https://www.history.com/shows/unidentified-inside-americas-ufo-investigation)" with Navy pilot David Fravor
-* Watch [Robert Wood and William Tompkins discuss the Apollo 11 first-hand witness of alien ships along a lunar crater and other phenomena from the moon landing
-* Various audio clips from military, aviation, and scientist witness accounts](https://www.youtube.com/watch?v=qzNSX3ftKiw)
+* Watch [Robert Wood and William Tompkins discuss the Apollo 11 first-hand witness of alien ships along a lunar crater and other phenomena from the moon landing](https://www.youtube.com/watch?v=qzNSX3ftKiw)
+* [Various audio clips from military, aviation, and scientist witness accounts](https://archive.org/details/UFOLOGYAPrimerInAudio19391959Guide/063.mp3)
 
 ## MASS SIGHTINGS
 
@@ -166,9 +166,9 @@ The demarcation line for these "starter kit" articles is December 2017 onward, f
 
 ## THEORIES OF ORIGINS
 
-Fermi's Paradox attributed to Enrico Fermi but initially written about by Hart, Michael H. (1975). "Explanation for the Absence of Extraterrestrials on Earth". Quarterly Journal of the Royal Astronomical Society. 16: 128–135. Bibcode:1975QJRAS..16..128H http://articles.adsabs.harvard.edu/pdf/1975QJRAS..16..128H
+Fermi's Paradox attributed to Enrico Fermi but initially written about by Hart, Michael H. (1975). "Explanation for the Absence of Extraterrestrials on Earth". Quarterly Journal of the Royal Astronomical Society. 16: 128–135. Bibcode:1975QJRAS..16..128H [http://articles.adsabs.harvard.edu/pdf/1975QJRAS..16..128H](http://articles.adsabs.harvard.edu/pdf/1975QJRAS..16..128H)
 
-The "Zoo Hypothesis" by John A. Ball https://www.haystack.mit.edu/hay/staff/jball/etiy.pdf, see also https://arxiv.org/pdf/1608.08770.pdf and https://www.technologyreview.com/2016/09/06/157713/galactic-model-simulates-how-et-civilizations-could-be-deliberately-avoiding-earth/
+The "Zoo Hypothesis" by John A. Ball [https://www.haystack.mit.edu/hay/staff/jball/etiy.pdf](https://www.haystack.mit.edu/hay/staff/jball/etiy.pdf), see also [https://arxiv.org/pdf/1608.08770.pdf](https://arxiv.org/pdf/1608.08770.pdf) and [https://www.technologyreview.com/2016/09/06/157713/galactic-model-simulates-how-et-civilizations-could-be-deliberately-avoiding-earth/](https://www.technologyreview.com/2016/09/06/157713/galactic-model-simulates-how-et-civilizations-could-be-deliberately-avoiding-earth/)
 
 ## RELIGIONS AND ANCIENT CULTURE
 
