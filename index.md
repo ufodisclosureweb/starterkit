@@ -64,8 +64,8 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * Read "[Strange Skies: Pilot Encounters With UFOs](https://amazon.com/s?k=9780806522999)" 
 * Read "[UFOs & Nukes: Extraordinary Encounters at Nuclear Weapons Sites](https://amazon.com/UFOs-Nukes-Extraordinary-Encounters-Nuclear-ebook/dp/B084DJMQ4S)" 
 * Watch "[Unidentified: Inside America’s UFO Investigation](https://www.history.com/shows/unidentified-inside-americas-ufo-investigation)" with Navy pilot David Fravor
-* Watch [Robert Wood and William Tompkins discuss the Apollo 11 first-hand witness of alien ships along a lunar crater and other phenomena from the moon landing
-* Various audio clips from military, aviation, and scientist witness accounts](https://www.youtube.com/watch?v=qzNSX3ftKiw)
+* Watch [Robert Wood and William Tompkins discuss the Apollo 11 first-hand witness of alien ships along a lunar crater and other phenomena from the moon landing](https://www.youtube.com/watch?v=qzNSX3ftKiw)
+* [Various audio clips from military, aviation, and scientist witness accounts](https://archive.org/details/UFOLOGYAPrimerInAudio19391959Guide/063.mp3)
 
 ## MASS SIGHTINGS
 
