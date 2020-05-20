@@ -54,6 +54,7 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * [The 1981 Halt Memo](https://www.richarddolanpress.com/twelve-government-documents)
 * [U.S. Coast Guard Encounter with a UFO, 1988](https://www.richarddolanpress.com/twelve-government-documents)
 * [UFOs Over Belgium, 1989-1990](https://www.richarddolanpress.com/twelve-government-documents)
+* [Physical Evidence Related to UFO Reports: The Proceedings of a Workshop Held at the Pocantico Conference Center, Tarrytown, New York, September 29 - October 4,1997](https://www.scientificexploration.org/docs/12/jse_12_2_sturrock.pdf)
 * [The Wilson Memo](https://richarddolanmembers.com/articles/the-wilson-leak-latest-developments/)
 * [The UFO Evidence (NICAP)](https://www.cia.gov/library/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf)
 
@@ -182,5 +183,5 @@ The "Zoo Hypothesis" by John A. Ball [https://www.haystack.mit.edu/hay/staff/jba
 
 If you'd like to contribute links or new information to this starter kit, here are the instructions:
 * [Clone the repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
-* [Make a branch](https://guides.github.com/activities/hello-world/), make and commit changes, then submit a pull request.
-* Your pull request will be reviewed and, if accepted, will be merged to the master repository and published.
+* [Make a branch](https://guides.github.com/activities/hello-world/), make and commit changes to index.md, then submit a pull request.
+* Your pull request will be reviewed and, if accepted, will be merged to the master repository, converted to HTML, and published.
