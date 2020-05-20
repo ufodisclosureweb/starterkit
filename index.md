@@ -1,5 +1,7 @@
 # The UFO Investigator Starter Kit
 
+[Instructions for contributing](#instructions-for-contributing)
+
 This document is for:
 * people new to the topic who want a solid foundation at the start of their search for answers
 * skeptics who should consider that the answers aren't as simple as a single Google search or a mere day of topic perusal
@@ -175,3 +177,10 @@ The "Zoo Hypothesis" by John A. Ball https://www.haystack.mit.edu/hay/staff/jbal
 * Mayans
 * Sumerians
 * Native Americans
+
+## INSTRUCTIONS FOR CONTRIBUTING
+
+If you'd like to contribute links or new information to this starter kit, here are the instructions:
+* [Clone the repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+* [Make a branch](https://guides.github.com/activities/hello-world/), make and commit changes, then submit a pull request.
+* Your pull request will be reviewed and, if accepted, will be merged to the master repository and published.
