@@ -69,6 +69,7 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 
 ## MASS SIGHTINGS
 
+* [Foo Fighters, 1944](https://youtu.be/Vf41CD5INGU)
 * Kenneth Arnold, et. al., 1947
 * Roswell NM, 1947
 * Aztec NM, 1948
@@ -78,12 +79,15 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * Tehran, 1976
 * UFOs and nuclear facilities, 1948-1980s
 * Rendlesham Forest, 1980
+* [Hessdalen Lights, 1981](http://www.hessdalen.org/reports/scex1802217251.pdf), see documentary at [https://youtu.be/1KuCu8I_mUg](https://youtu.be/1KuCu8I_mUg)
+* [Japan Airlines Flight 1628, 1986](https://youtu.be/dMn1PiNZfkU)
 * UFOs Over Belgium, 1989-1990
-* The Phoenix Lights, 1997
+* The Phoenix Lights, 1997, [19th anniversary coverage](https://youtu.be/EOkXUvS3iX0), [2014 AZ Governor Fife Symington interview](youtube.com/watch?v=v1Fh0g5wJ7A)
+* St. Claire, Illinois Flying Triangle, 2000 - [Documentary Part 1](https://www.youtube.com/watch?v=k_vmILld-Ek), [Documentary Part 2](https://www.youtube.com/watch?v=Hjw4BCmOxWQ)
 * The Lights Above the New Jersey Turnpike, 2001
-* [The USS Nimitz Encounter, 2004](https://www.history.com/playlists/ufo-fighter-pilots-video-playlist)
+* [The USS Nimitz Encounter, 2004](https://www.history.com/playlists/ufo-fighter-pilots-video-playlist), ["The Tale of the Tape"](https://www.popularmechanics.com/military/research/a30538203/navy-ufo-video-investigation/)
 * The Chicago O'Hare UFO, 2006
-* The Stephenville Sightings, 2008
+* [The Stephenville Sightings, 2008](https://www.yourstephenvilletx.com/news/article_e9c944d6-ff16-54f3-8e74-8d087cfd7329.html), see also [Air Force Alters Texas UFO Explanation](https://www.npr.org/templates/story/story.php?storyId=18375952)
 * [The USS Roosevelt Encounter, 2015](https://www.history.com/playlists/ufo-fighter-pilots-video-playlist)
 * [East Coast GO FAST Video, 2015](https://www.history.com/playlists/ufo-fighter-pilots-video-playlist)
 
