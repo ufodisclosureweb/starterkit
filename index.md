@@ -129,7 +129,7 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * [International UFO Congress (IUFOC)](https://ufocongress.com/)
 * [Mutual UFO Network (MUFON)](https://www.mufon.com/)
 * [National UFO Reporting Center (NUFORC)](http://www.nuforc.org/)
-* [To the Stars Academy (TTSA)](https://home.tothestarsacademy.com/)
+* [To the Stars Academy (TTSA)](https://home.tothestarsacademy.com/), plus [Timeline of TTSA organization](https://www.billboard.com/articles/columns/rock/8071145/tom-delonge-ufo-timeline)
 * [The Black Vault](https://www.theblackvault.com/)
 * [Comprehensive list](http://www.ufoinfo.com/organizations/index.shtml)
 
