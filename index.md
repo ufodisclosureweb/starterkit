@@ -29,7 +29,7 @@ __Note:__ Just because something is unclassified doesn't mean there was no good 
 The following projects and committees produced large amounts of classified and unclassified documentation, reports, studies, and other media on UFOs. They are referenced in numerous books and other publications about UFOs. It's important to know their names, timelines, players, and conclusions when consuming the materials they produced.
 
 * [Project Sign](https://www.bibliotecapleyades.net/sociopolitica/sign/sign.htm)
-* Project Grudge
+* [Project Grudge](https://en.wikipedia.org/wiki/Project_Grudge#The_Grudge_report)
 * Project Blue Book
 * Condon Committee
 * Advanced Aerospace Thread Identification Program (AATIP)
@@ -70,6 +70,7 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 
 ## MASS SIGHTINGS
 
+* [Foo Fighters, 1944](https://youtu.be/Vf41CD5INGU)
 * Kenneth Arnold, et. al., 1947
 * Roswell NM, 1947
 * Aztec NM, 1948
@@ -79,12 +80,15 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * Tehran, 1976
 * UFOs and nuclear facilities, 1948-1980s
 * Rendlesham Forest, 1980
+* [Hessdalen Lights, 1981](http://www.hessdalen.org/reports/scex1802217251.pdf), see documentary at [https://youtu.be/1KuCu8I_mUg](https://youtu.be/1KuCu8I_mUg)
+* [Japan Airlines Flight 1628, 1986](https://youtu.be/dMn1PiNZfkU)
 * UFOs Over Belgium, 1989-1990
-* The Phoenix Lights, 1997
+* The Phoenix Lights, 1997, [19th anniversary coverage](https://youtu.be/EOkXUvS3iX0), [2014 AZ Governor Fife Symington interview](youtube.com/watch?v=v1Fh0g5wJ7A)
+* St. Claire, Illinois Flying Triangle, 2000 - [Documentary Part 1](https://www.youtube.com/watch?v=k_vmILld-Ek), [Documentary Part 2](https://www.youtube.com/watch?v=Hjw4BCmOxWQ)
 * The Lights Above the New Jersey Turnpike, 2001
-* [The USS Nimitz Encounter, 2004](https://www.history.com/playlists/ufo-fighter-pilots-video-playlist)
+* [The USS Nimitz Encounter, 2004](https://www.history.com/playlists/ufo-fighter-pilots-video-playlist), ["The Tale of the Tape"](https://www.popularmechanics.com/military/research/a30538203/navy-ufo-video-investigation/)
 * The Chicago O'Hare UFO, 2006
-* The Stephenville Sightings, 2008
+* [The Stephenville Sightings, 2008](https://www.yourstephenvilletx.com/news/article_e9c944d6-ff16-54f3-8e74-8d087cfd7329.html), see also [Air Force Alters Texas UFO Explanation](https://www.npr.org/templates/story/story.php?storyId=18375952)
 * [The USS Roosevelt Encounter, 2015](https://www.history.com/playlists/ufo-fighter-pilots-video-playlist)
 * [East Coast GO FAST Video, 2015](https://www.history.com/playlists/ufo-fighter-pilots-video-playlist)
 
@@ -102,41 +106,37 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 
 ## BOOKS
 
-* “Identified Flying Objects: A Multidisciplinary Scientific Approach to the UFO Phenomenon” by Dr. Michael P. Masters
-* “UFOs: Generals, Pilots, and Government Officials Go on the Record” by Leslie Kean
-* “Inside The Black Vault: The Government's UFO Secrets Revealed” by John Greenewald, Jr.
-* “The Thinking Person's UFO Book” by Richard Dolan and Gordon Chism
-* “UFOs and the National Security State: Chronology of a Cover-Up, 1941-1973” by Richard Dolan
-* “UFOs and the National Security State: The Cover-Up Exposed, 1973-1991” by Richard Dolan
-* “A.D. After Disclosure: When the Government Finally Reveals the Truth About Alien Contact” by Richard Dolan
-* “UFOs for the 21st Century Mind: A Fresh Guide to an Ancient Mystery” by Richard Dolan
-* “The FBI-CIA-UFO Connection: The Hidden UFO Activities of USA Intelligence Agencies” by Bruce Maccabee, Ph.D.
-* “Project Disclosure: Revealing Government Secrets and Breaking the Truth Embargo (Conspiracies and Cover-Ups)” by Richard Dolan and Bryce Zabel 
-* “Triangular UFOs: An Estimate of the Situation” by David Marler
-* “UFOs, Area 51, and Government Informants: A Report on Government Involvment in UFO Crash Retrievals” by Grant Cameron
-* “The Aztec UFO Incident: The Case, Evidence, and Elaborate Cover-up of One of the Most Perplexing Crashes in History” by Scott and Suzanne Ramsey, Frank Thayer Ph.D., and Stanton Friedman
-* “Above Top Secret” by Timothy Good
-* “Messengers of Deception” by Jacques Vallee
-* “The Invisible College: What a Group of Scientists Has Discovered about UFO Influence on the Human Race” by Jacques Vallee
-* “Unconventional Flying Objects” by Paul R. Hill
+* [“Identified Flying Objects: A Multidisciplinary Scientific Approach to the UFO Phenomenon”](https://www.amazon.com/Identified-Flying-Objects-Multidisciplinary-Scientific/dp/1733634061) by Dr. Michael P. Masters
+* [“UFOs: Generals, Pilots, and Government Officials Go on the Record”](https://www.amazon.com/UFOs-Generals-Pilots-Government-Officials/dp/0307717089) by Leslie Kean
+* [“Inside The Black Vault: The Government's UFO Secrets Revealed”](https://www.amazon.com/Inside-Black-Vault-Governments-Revealed/dp/1538118378) by John Greenewald, Jr.
+* [“The Thinking Person's UFO Book”](https://www.amazon.com/Thinking-Persons-UFO-Book/dp/143922711X) by Richard Dolan and Gordon Chism
+* [“UFOs and the National Security State: Chronology of a Cover-Up, 1941-1973”](https://www.barnesandnoble.com/w/ufos-and-the-national-security-state-richard-m-dolan/1112649480) by Richard Dolan
+* [“UFOs and the National Security State: The Cover-Up Exposed, 1973-1991”](https://www.amazon.com/UFOs-National-Security-State-1973-1991/dp/0967799511) by Richard Dolan
+* [“A.D. After Disclosure: When the Government Finally Reveals the Truth About Alien Contact”](https://www.amazon.com/D-After-Disclosure-Government-Finally/dp/1601632223) by Richard Dolan
+* [“UFOs for the 21st Century Mind: A Fresh Guide to an Ancient Mystery”](https://www.amazon.com/UFOs-21st-Century-Mind-Ancient/dp/149529160X) by Richard Dolan
+* [“The FBI-CIA-UFO Connection: The Hidden UFO Activities of USA Intelligence Agencies”](https://www.amazon.com/FBI-CIA-UFO-Connection-Activities-Intelligence-Agencies/dp/1502317214) by Bruce Maccabee, Ph.D.
+* [“Project Disclosure: Revealing Government Secrets and Breaking the Truth Embargo (Conspiracies and Cover-Ups)”](https://www.amazon.com/Project-Disclosure-Revealing-Government-Conspiracies/dp/1477781552) by Richard Dolan and Bryce Zabel
+* [“Triangular UFOs: An Estimate of the Situation”](https://www.amazon.com/Triangular-UFOs-Mr-David-Marler/dp/1490465812) by David Marler
+* [“UFOs, Area 51, and Government Informants: A Report on Government Involvment in UFO Crash Retrievals”](https://www.amazon.com/UFOs-Area-Government-Informants-Involvement/dp/1482069385) by Grant Cameron
+* [“The Aztec UFO Incident: The Case, Evidence, and Elaborate Cover-up of One of the Most Perplexing Crashes in History”](https://www.amazon.com/Aztec-UFO-Incident-Elaborate-Perplexing/dp/1632650010) by Scott and Suzanne Ramsey, Frank Thayer Ph.D., and Stanton Friedman
+* [“Above Top Secret”](https://www.amazon.com/Above-Top-Secret-Worldwide-U-F/dp/0688092020) by Timothy Good
+* [“Messengers of Deception”](https://www.amazon.com/Messengers-Deception-UFO-Contacts-Cults/dp/097572004X) by Jacques Vallee
+* [“The Invisible College: What a Group of Scientists Has Discovered about UFO Influence on the Human Race”](https://www.amazon.com/Invisible-College-Scientists-Discovered-Influence/dp/1938398270) by Jacques Vallee
+* [“Unconventional Flying Objects”](https://www.amazon.com/Unconventional-Flying-Objects-Scientific-Analysis/dp/1571740279) by Paul R. Hill
 
 ## RESEARCH AND MEDIA ORGANIZATIONS
 
-* Aerial Phenomena Enquiry Network (APEN)
-* Center for the Study of Extraterrestrial Intelligence (CSETI)
-* Center for UFO Studies (CUFOS or JAHCUFOS)
-* Disclosure Project
-* Fund for UFO Research (FUFOR)
-* International UFO Congress (IUFOC)
-* Mutual UFO Network (MUFON)
-* National UFO Reporting Center (NUFORC)
-* To the Stars Academy (TTSA)
+* [Center for UFO Studies (CUFOS or JAHCUFOS)](http://www.cufos.org/)
+* [International UFO Congress (IUFOC)](https://ufocongress.com/)
+* [Mutual UFO Network (MUFON)](https://www.mufon.com/)
+* [National UFO Reporting Center (NUFORC)](http://www.nuforc.org/)
+* [To the Stars Academy (TTSA)](https://home.tothestarsacademy.com/), plus [Timeline of TTSA organization](https://www.billboard.com/articles/columns/rock/8071145/tom-delonge-ufo-timeline)
 * [The Black Vault](https://www.theblackvault.com/)
 * [Comprehensive list](http://www.ufoinfo.com/organizations/index.shtml)
 
 ## NEWS COVERAGE SINCE DECEMBER 2017
 
-The demarcation line for these "starter kit" articles is December 2017 onward, from when the New York Times broke the story about AATIP until now, in reverse chronological order. I may add other articles from earlier for reference, but this is "what matters most", currently, in terms of legitimizing and destigmatizing the topic. Prior articles were always plausibly deniable given that the government hadn't yet seen fit to release (or allow to leak) materials with unbroken chains of custody or to acknowledge these craft exist. They are now of much more worth given recent developments.
+The demarcation line for these "starter kit" articles is December 2017 onward, from when the New York Times broke the story about AATIP until now, in reverse chronological order. Other articles may be added from earlier for reference, but this is "what matters most", currently, in terms of legitimizing and destigmatizing the topic. Prior articles were always plausibly deniable given that the government hadn't yet seen fit to release (or allow to leak) materials with unbroken chains of custody or to acknowledge these craft exist. Older stories are now of much more worth given recent developments.
 
 * [The Truth Is (Still) Out There](https://nymag.com/intelligencer/2020/05/ufos-ahoy-new-navy-report-documents-mysterious-encounters.html) - 15 May 2020
 * [Navy Reports Describe Encounters With Unexplained Flying Objects](https://www.nytimes.com/2020/05/14/us/politics/navy-ufo-reports.html) - 14 May 2020
@@ -150,19 +150,23 @@ The demarcation line for these "starter kit" articles is December 2017 onward, f
 
 ## INDIVIDUAL RESEARCHERS AND INFLUENCERS
 
-* Richard Dolan
-* [Hal Puthoff, Ph.D.](https://www.researchgate.net/publication/228771973_Fabrication_of_2D_and_3D_Electromagnetic_Metamaterials_for_the_Terahertz_Range)
-* Leonard Stringfield 
-* Steve Mera
+* [Richard Dolan](https://www.richarddolanpress.com/richard-m-dolan)
+* [George Knapp](https://www.google.com/search?q=george+knapp)
+* [Leonard Stringfield](https://www.amazon.com/Leonard-H.-Stringfield/e/B001KDGF0U%3Fref=dbs_a_mng_rwt_scns_share)
+* [Steve Mera](https://www.linkedin.com/in/steve-mera-44609963/?originalSubdomain=uk)
+* [Hal Puthoff, Ph.D.](https://earthtech.org/pubs/puthoff/)
 * [Leslie Kean](https://www.survivingdeathkean.com)
-* George Knapp
 * [Robert Bigelow](https://www.youtube.com/watch?v=bY2OYSDYsVI)
-* Dr. David Jacobs
+* [Dr. David Jacobs](https://www.google.com/search?q=dr.+david+jacobs)
 
 ## DISINFORMATION AGENTS AND CAMPAIGNS
 
-* Richard C. Doty
-* Phillip Klass
+* [Aerial Phenomena Enquiry Network (APEN)](https://en.wikipedia.org/wiki/Aerial_Phenomena_Enquiry_Network)
+* [Corey Goode and David Wilcock](https://www.vice.com/en_us/article/4ayyqw/david-wilcock-ufo-conspiracy-theorist-covid-19-deep-state-ascension)
+* [Center for the Study of Extraterrestrial Intelligence (CSETI)](http://www.cseti.org/)
+* [Fund for UFO Research (FUFOR)](https://en.wikipedia.org/wiki/Fund_for_UFO_Research)
+* [Richard C. Doty](https://www.mysterywire.com/ufo/spying-disinformation-accusations-follow-ufo-figure-rick-doty-an-exclusive-interview/)
+* [Phillip Klass](https://www.youtube.com/watch?v=p00K64EFT_Q)
 * Read "[Mirage Men: A Journey into Disinformation, Paranoia and UFOs](https://www.amazon.com/Mirage-Men-Journey-Disinformation-Paranoia-ebook/dp/B00OGV2JGC)" by Mark Pilkington
 
 ## THEORIES OF ORIGINS
