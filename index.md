@@ -30,11 +30,11 @@ The following projects and committees produced large amounts of classified and u
 
 * [Project Sign](https://www.bibliotecapleyades.net/sociopolitica/sign/sign.htm)
 * [Project Grudge](https://en.wikipedia.org/wiki/Project_Grudge#The_Grudge_report)
-* Project Blue Book
-* Condon Committee
-* Advanced Aerospace Thread Identification Program (AATIP)
-* Bigelow Aerospace Advanced Space Studies (BAASS)
-* Advanced Aerospace Weapon Systems Applications Program (AAWSAP)
+* [Project Blue Book](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)
+* [Condon Committee](https://science.howstuffworks.com/space/aliens-ufos/ufo-government7.htm)
+* [Advanced Aerospace Thread Identification Program (AATIP)](https://fas.org/irp/dia/aatip-list.pdf)
+* [Bigelow Aerospace Advanced Space Studies (BAASS)](https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos/)
+* [Advanced Aerospace Weapon Systems Applications Program (AAWSAP)](https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/)
 * [Audio of events and interviews around key UFO projects and committees](https://archive.org/search.php?query=1951+USAF+Intelligence+Report)
 
 ## REPORTS
@@ -141,6 +141,7 @@ The demarcation line for these "starter kit" articles is December 2017 onward, f
 * [The Truth Is (Still) Out There](https://nymag.com/intelligencer/2020/05/ufos-ahoy-new-navy-report-documents-mysterious-encounters.html) - 15 May 2020
 * [Navy Reports Describe Encounters With Unexplained Flying Objects](https://www.nytimes.com/2020/05/14/us/politics/navy-ufo-reports.html) - 14 May 2020
 * [Navy Pilot Who Filmed the ‘Tic Tac’ UFO Speaks: ‘It Wasn’t Behaving by the Normal Laws of Physics’](https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html) - 19 December 2019
+* [UFOs in Virginia Beach? Navy pilots report sightings near Oceana.](https://www.pilotonline.com/military/article_aca37c50-821b-11e9-89c6-93f6f6739d95.html) - 30 May 2019
 * [Navy Pilots Were Seeing UFOs on an Almost Daily Basis in 2014 and 2015: Report](https://nymag.com/intelligencer/2019/05/navy-pilots-are-seeing-ufos-on-an-almost-daily-basis-report.html) - 27 May 2019
 * [‘Wow, What Is That?’ Navy Pilots Report Unexplained Flying Objects](https://www.nytimes.com/2019/05/26/us/politics/ufo-sightings-navy-pilots.html) - 26 May 2019
 * [UFO sightings: U.S. Navy drafts guidelines to report](https://www.washingtonpost.com/national-security/2019/04/24/how-angry-pilots-got-navy-stop-dismissing-ufo-sightings/?noredirect=on&utm_term=.a1f1aa3270f8) - 25 April 2019
