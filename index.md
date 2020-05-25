@@ -176,6 +176,10 @@ Fermi's Paradox attributed to Enrico Fermi but initially written about by Hart, 
 
 The "Zoo Hypothesis" by John A. Ball [https://www.haystack.mit.edu/hay/staff/jball/etiy.pdf](https://www.haystack.mit.edu/hay/staff/jball/etiy.pdf), see also [https://arxiv.org/pdf/1608.08770.pdf](https://arxiv.org/pdf/1608.08770.pdf) and [https://www.technologyreview.com/2016/09/06/157713/galactic-model-simulates-how-et-civilizations-could-be-deliberately-avoiding-earth/](https://www.technologyreview.com/2016/09/06/157713/galactic-model-simulates-how-et-civilizations-could-be-deliberately-avoiding-earth/)
 
+## CLOSE ENCOUNTERS AND ABDUCTIONS
+
+* [Are Aliens Tracking Abductees With Implants?](https://www.ufoinsight.com/aliens-tracking-abductees-implants/)
+
 ## RELIGIONS AND ANCIENT CULTURE
 
 * Nazca Lines
