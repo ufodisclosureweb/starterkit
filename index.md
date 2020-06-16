@@ -10,6 +10,23 @@ This document is for:
 * military rank-and-file, leaders, and investigators new to the topic
 
 This is just a beginning with a few major concepts outlined in brief. If you don't know what something is, search it out to get more detail. Any included links are meant only as starting points and examples, not as the "final word" on anything. The reader is encouraged to do their own investigation and come to their own conclusions.
+
+* [UNCLASSIFIED DOCUMENTS](#unclassified-documents)
+* [PROJECTS AND COMMITTEES](#projects-and-committees)
+* [REPORTS](#reports)
+* [TESTIMONIES OF HIGHLY-CREDIBLE OBSERVERS](#testimonies-of-highly-credible-observers)
+* [MASS SIGHTINGS](#mass-sightings)
+* [TANGIBLE EVIDENCES](#tangible-evidences)
+* [BOOKS](#books)
+* [DOCUMENTARIES](#documentaries)
+* [RESEARCH AND MEDIA ORGANIZATIONS](#research-and-media-organizations)
+* [NEWS COVERAGE](#news-coverage)
+* [INDIVIDUAL RESEARCHERS AND INFLUENCERS](#individual-researchers-and-influencers)
+* [DISINFORMATION AGENTS AND CAMPAIGNS](#disinformation-agents-and-campaigns)
+* [THEORIES OF ORIGINS](#theories-of-origins)
+* [CLOSE ENCOUNTERS AND ABDUCTIONS](#close-encounters-and-abductions)
+* [RELIGIONS AND ANCIENT CULTURE](#religions-and-culture)
+
 ## UNCLASSIFIED DOCUMENTS
 
 Start here. You'll see these referenced a lot in both good UFO books and bad. It's important to know what the documents say and don't say first so that you can filter author opinions from reality. That also goes for opinions of any skeptics reading this. The documents don't exist in a vacuum. Indeed, if nothing like the craft that UFOs represent exists, then why do these documents exist at all? There's a history before, during, and after their creation that is important to pay attention to in order to fully understand what they mean and what they're saying/not saying.
@@ -191,6 +208,7 @@ The "Zoo Hypothesis" by John A. Ball [https://www.haystack.mit.edu/hay/staff/jba
 ## CLOSE ENCOUNTERS AND ABDUCTIONS
 
 * [Are Aliens Tracking Abductees With Implants?](https://www.ufoinsight.com/aliens-tracking-abductees-implants/)
+* [Extraordinary: The Seeding](https://www.extraordinarytheseeding.com/)
 
 ## RELIGIONS AND ANCIENT CULTURE
 
