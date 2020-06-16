@@ -57,8 +57,8 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * [Physical Evidence Related to UFO Reports: The Proceedings of a Workshop Held at the Pocantico Conference Center, Tarrytown, New York, September 29 - October 4,1997](https://www.scientificexploration.org/docs/12/jse_12_2_sturrock.pdf)
 * [The Wilson Memo](https://richarddolanmembers.com/articles/the-wilson-leak-latest-developments/)
 * [The UFO Evidence (NICAP)](https://www.cia.gov/library/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf)
-
-"[UFO Files](https://that1archive.neocities.org/subfolder1/ufo-files.html)", by UFO researcher Emma Best ([@NatSecGeek](https://twitter.com/NatSecGeek) on Twitter), contains a list of raw document files from projects in various countries from the United States to France to Panama.
+* "[UFO Files](https://that1archive.neocities.org/subfolder1/ufo-files.html)", by UFO researcher Emma Best ([@NatSecGeek](https://twitter.com/NatSecGeek) on Twitter), contains a list of raw document files from projects in various countries from the United States to France to Panama.
+* [The Pentagon 1997 UFO Briefing](https://omnitalkradio.weebly.com/pentagon-ufo-briefing.html) as compiled by Giuliano Marinkovic
 
 ## TESTIMONIES OF HIGHLY-CREDIBLE OBSERVERS
 
@@ -67,6 +67,7 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * Watch "[Unidentified: Inside America’s UFO Investigation](https://www.history.com/shows/unidentified-inside-americas-ufo-investigation)" with Navy pilot David Fravor
 * Watch [Robert Wood and William Tompkins discuss the Apollo 11 first-hand witness of alien ships along a lunar crater and other phenomena from the moon landing](https://www.youtube.com/watch?v=qzNSX3ftKiw)
 * [Various audio clips from military, aviation, and scientist witness accounts](https://archive.org/details/UFOLOGYAPrimerInAudio19391959Guide/063.mp3)
+* Read "[UFOs and nukes – One man’s investigation into incidents the government never wanted public](https://www.mysterywire.com/ufo/ufos-and-nukes-one-mans-investigation-into-incidents-the-government-never-wanted-public/)"
 
 ## MASS SIGHTINGS
 
@@ -83,6 +84,7 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * [Hessdalen Lights, 1981](http://www.hessdalen.org/reports/scex1802217251.pdf), see documentary at [https://youtu.be/1KuCu8I_mUg](https://youtu.be/1KuCu8I_mUg)
 * [Japan Airlines Flight 1628, 1986](https://youtu.be/dMn1PiNZfkU)
 * UFOs Over Belgium, 1989-1990
+* [The Westall UFO encounter, 1989](https://www.youtube.com/watch?v=9qlu-2IWCQI)
 * The Phoenix Lights, 1997, [19th anniversary coverage](https://youtu.be/EOkXUvS3iX0), [2014 AZ Governor Fife Symington interview](youtube.com/watch?v=v1Fh0g5wJ7A)
 * St. Claire, Illinois Flying Triangle, 2000 - [Documentary Part 1](https://www.youtube.com/watch?v=k_vmILld-Ek), [Documentary Part 2](https://www.youtube.com/watch?v=Hjw4BCmOxWQ)
 * The Lights Above the New Jersey Turnpike, 2001
@@ -124,6 +126,9 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * [“The Invisible College: What a Group of Scientists Has Discovered about UFO Influence on the Human Race”](https://www.amazon.com/Invisible-College-Scientists-Discovered-Influence/dp/1938398270) by Jacques Vallee
 * [“Unconventional Flying Objects”](https://www.amazon.com/Unconventional-Flying-Objects-Scientific-Analysis/dp/1571740279) by Paul R. Hill
 
+## DOCUMENTARIES
+* [Extraordinary: The Seeding](https://www.amazon.com/gp/video/detail/B0813HST53/ref=atv_dl_rdr?autoplay=1)
+
 ## RESEARCH AND MEDIA ORGANIZATIONS
 
 * [Center for UFO Studies (CUFOS or JAHCUFOS)](http://www.cufos.org/)
@@ -133,11 +138,16 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * [To the Stars Academy (TTSA)](https://home.tothestarsacademy.com/), plus [Timeline of TTSA organization](https://www.billboard.com/articles/columns/rock/8071145/tom-delonge-ufo-timeline)
 * [The Black Vault](https://www.theblackvault.com/)
 * [Comprehensive list](http://www.ufoinfo.com/organizations/index.shtml)
+* [Open Sky Network: Live Radar](https://opensky-network.org/)
+* [NATS Airspace Explorer](https://www.nats.aero/ae-home/)
+* [MADAR: Magnetic Radar](https://madar.site/)
+* [SkyHub.org](https://skyhub.org/), see [example footage](https://www.youtube.com/watch?v=8uo4V-sKBmM)
 
-## NEWS COVERAGE SINCE DECEMBER 2017
+## NEWS COVERAGE AND OPINION ARTICLES SINCE DECEMBER 2017
 
 The demarcation line for these "starter kit" articles is December 2017 onward, from when the New York Times broke the story about AATIP until now, in reverse chronological order. Other articles may be added from earlier for reference, but this is "what matters most", currently, in terms of legitimizing and destigmatizing the topic. Prior articles were always plausibly deniable given that the government hadn't yet seen fit to release (or allow to leak) materials with unbroken chains of custody or to acknowledge these craft exist. Older stories are now of much more worth given recent developments.
 
+* [We Can Handle the Truth: Why Now Is the Perfect Time to End the UFO Cover-Up](https://medium.com/@brycezabel/ufo2020-d1b931d7443d) - 8 June 2020
 * [The Truth Is (Still) Out There](https://nymag.com/intelligencer/2020/05/ufos-ahoy-new-navy-report-documents-mysterious-encounters.html) - 15 May 2020
 * [Navy Reports Describe Encounters With Unexplained Flying Objects](https://www.nytimes.com/2020/05/14/us/politics/navy-ufo-reports.html) - 14 May 2020
 * [Navy Pilot Who Filmed the ‘Tic Tac’ UFO Speaks: ‘It Wasn’t Behaving by the Normal Laws of Physics’](https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html) - 19 December 2019
@@ -152,6 +162,7 @@ The demarcation line for these "starter kit" articles is December 2017 onward, f
 ## INDIVIDUAL RESEARCHERS AND INFLUENCERS
 
 * [Richard Dolan](https://www.richarddolanpress.com/richard-m-dolan)
+* [Bryce Zabel](https://twitter.com/hollywoodufos)
 * [George Knapp](https://www.google.com/search?q=george+knapp)
 * [Leonard Stringfield](https://www.amazon.com/Leonard-H.-Stringfield/e/B001KDGF0U%3Fref=dbs_a_mng_rwt_scns_share)
 * [Steve Mera](https://www.linkedin.com/in/steve-mera-44609963/?originalSubdomain=uk)
@@ -159,6 +170,7 @@ The demarcation line for these "starter kit" articles is December 2017 onward, f
 * [Leslie Kean](https://www.survivingdeathkean.com)
 * [Robert Bigelow](https://www.youtube.com/watch?v=bY2OYSDYsVI)
 * [Dr. David Jacobs](https://www.google.com/search?q=dr.+david+jacobs)
+* [What's Up With UFOs? Tom Curren and Sean Esbjörn-Hargens](https://whatsupwithufos.com/)
 
 ## DISINFORMATION AGENTS AND CAMPAIGNS
 
