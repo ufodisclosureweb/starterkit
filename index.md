@@ -72,7 +72,7 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * [U.S. Coast Guard Encounter with a UFO, 1988](https://www.richarddolanpress.com/twelve-government-documents)
 * [UFOs Over Belgium, 1989-1990](https://www.richarddolanpress.com/twelve-government-documents)
 * [Physical Evidence Related to UFO Reports: The Proceedings of a Workshop Held at the Pocantico Conference Center, Tarrytown, New York, September 29 - October 4,1997](https://www.scientificexploration.org/docs/12/jse_12_2_sturrock.pdf)
-* [The Wilson Memo](https://richarddolanmembers.com/articles/the-wilson-leak-latest-developments/)
+* [The Wilson Memo](https://richarddolanmembers.com/articles/the-wilson-leak-latest-developments/), see also [The Ultimate Breakdown of the Admiral Wilson Leaks](https://www.youtube.com/watch?v=F5P04uI2hu0)
 * [The UFO Evidence (NICAP)](https://www.cia.gov/library/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf)
 * "[UFO Files](https://that1archive.neocities.org/subfolder1/ufo-files.html)", by UFO researcher Emma Best ([@NatSecGeek](https://twitter.com/NatSecGeek) on Twitter), contains a list of raw document files from projects in various countries from the United States to France to Panama.
 * [The Pentagon 1997 UFO Briefing](https://omnitalkradio.weebly.com/pentagon-ufo-briefing.html) as compiled by Giuliano Marinkovic
