@@ -20,7 +20,7 @@ This is just a beginning with a few major concepts outlined in brief. If you don
 * [BOOKS](#books)
 * [DOCUMENTARIES](#documentaries)
 * [RESEARCH AND MEDIA ORGANIZATIONS](#research-and-media-organizations)
-* [NEWS COVERAGE](#news-coverage)
+* [NEWS COVERAGE](#news-coverage-and-opinion-articles-since-december-2017)
 * [INDIVIDUAL RESEARCHERS AND INFLUENCERS](#individual-researchers-and-influencers)
 * [DISINFORMATION AGENTS AND CAMPAIGNS](#disinformation-agents-and-campaigns)
 * [THEORIES OF ORIGINS](#theories-of-origins)
