@@ -164,6 +164,7 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 
 The demarcation line for these "starter kit" articles is December 2017 onward, from when the New York Times broke the story about AATIP until now, in reverse chronological order. Other articles may be added from earlier for reference, but this is "what matters most", currently, in terms of legitimizing and destigmatizing the topic. Prior articles were always plausibly deniable given that the government hadn't yet seen fit to release (or allow to leak) materials with unbroken chains of custody or to acknowledge these craft exist. Older stories are now of much more worth given recent developments.
 
+* [No Longer in Shadows, Pentagon’s U.F.O. Unit Will Make Some Findings Public](https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html) - 23 July 2020
 * [We Can Handle the Truth: Why Now Is the Perfect Time to End the UFO Cover-Up](https://medium.com/@brycezabel/ufo2020-d1b931d7443d) - 8 June 2020
 * [The Truth Is (Still) Out There](https://nymag.com/intelligencer/2020/05/ufos-ahoy-new-navy-report-documents-mysterious-encounters.html) - 15 May 2020
 * [Navy Reports Describe Encounters With Unexplained Flying Objects](https://www.nytimes.com/2020/05/14/us/politics/navy-ufo-reports.html) - 14 May 2020
