@@ -185,6 +185,7 @@ The demarcation line for these "starter kit" articles is December 2017 onward, f
 * [Leonard Stringfield](https://www.amazon.com/Leonard-H.-Stringfield/e/B001KDGF0U%3Fref=dbs_a_mng_rwt_scns_share)
 * [Steve Mera](https://www.linkedin.com/in/steve-mera-44609963/?originalSubdomain=uk)
 * [Hal Puthoff, Ph.D.](https://earthtech.org/pubs/puthoff/)
+* [Alexander Wendt](https://www.vox.com/policy-and-politics/2020/5/8/21244090/pentagon-ufo-report-navy-alexander-wendt)
 * [Leslie Kean](https://www.survivingdeathkean.com)
 * [Robert Bigelow](https://www.youtube.com/watch?v=bY2OYSDYsVI)
 * [Dr. David Jacobs](https://www.google.com/search?q=dr.+david+jacobs)
