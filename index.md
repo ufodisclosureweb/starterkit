@@ -26,6 +26,7 @@ This is just a beginning with a few major concepts outlined in brief. If you don
 * [THEORIES OF ORIGINS](#theories-of-origins)
 * [CLOSE ENCOUNTERS AND ABDUCTIONS](#close-encounters-and-abductions)
 * [RELIGIONS AND ANCIENT CULTURE](#religions-and-culture)
+* [MISCELLANEOUS EVIDENCES](#miscellaneous-evidences)
 
 ## UNCLASSIFIED DOCUMENTS
 
@@ -219,6 +220,10 @@ The "Zoo Hypothesis" by John A. Ball [https://www.haystack.mit.edu/hay/staff/jba
 * Mayans
 * Sumerians
 * Native Americans
+
+## MISCELLANEOUS EVIDENCES
+
+* [My favourite links regarding the phenomenon...](https://www.reddit.com/r/UFObelievers/comments/hhbfr3/my_favourite_links_regarding_the_phenomenon_there/)
 
 ## INSTRUCTIONS FOR CONTRIBUTING
 
