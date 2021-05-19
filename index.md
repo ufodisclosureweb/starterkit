@@ -146,6 +146,12 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 
 ## DOCUMENTARIES
 * [Extraordinary: The Seeding](https://www.amazon.com/gp/video/detail/B0813HST53/ref=atv_dl_rdr?autoplay=1)
+* [Anonymous Interview](https://www.extraordinarybeliefs.com/films#/anonymous-interview/)
+* [Patient Seventeen](https://www.extraordinarybeliefs.com/films#/patient-seventeen/)
+* [Bob Lazar](https://www.extraordinarybeliefs.com/films#/lazar/)
+* [Hunt for the Skinwalker](https://www.extraordinarybeliefs.com/films#/hunt-the-skinwalker/)
+* [I Know What I Saw](https://www.youtube.com/watch?v=4I4tKI2Ea-U)
+* [The Phenomenon](https://thephenomenonfilm.com/)
 
 ## RESEARCH AND MEDIA ORGANIZATIONS
 
@@ -155,6 +161,9 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * [National UFO Reporting Center (NUFORC)](http://www.nuforc.org/)
 * [To the Stars Academy (TTSA)](https://home.tothestarsacademy.com/), plus [Timeline of TTSA organization](https://www.billboard.com/articles/columns/rock/8071145/tom-delonge-ufo-timeline)
 * [The Black Vault](https://www.theblackvault.com/)
+* [The Debrief](https://thedebrief.org/)
+* [MysteryWire](https://www.mysterywire.com/)
+* [Extraordinary Beliefs](https://www.extraordinarybeliefs.com/stories)
 * [Comprehensive list](http://www.ufoinfo.com/organizations/index.shtml)
 * [Open Sky Network: Live Radar](https://opensky-network.org/)
 * [NATS Airspace Explorer](https://www.nats.aero/ae-home/)
@@ -163,8 +172,12 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 
 ## NEWS COVERAGE AND OPINION ARTICLES SINCE DECEMBER 2017
 
-The demarcation line for these "starter kit" articles is December 2017 onward, from when the New York Times broke the story about AATIP until now, in reverse chronological order. Other articles may be added from earlier for reference, but this is "what matters most", currently, in terms of legitimizing and destigmatizing the topic. Prior articles were always plausibly deniable given that the government hadn't yet seen fit to release (or allow to leak) materials with unbroken chains of custody or to acknowledge these craft exist. Older stories are now of much more worth given recent developments.
+The demarcation line for these "starter kit" articles is December 2017 onward, from when the New York Times broke the story about AATIP until now, in reverse chronological order. Other articles may be added from earlier for reference, but this is "what matters most", currently, in terms of legitimizing and destigmatizing the topic. Prior articles were always plausibly deniable given that the government hadn't yet seen fit to release (or allow to leak) materials with unbroken chains of custody or to acknowledge these craft exist. Older stories are now of much more worth given recent developments. Whenever possible, stories below are linked according to free availability (no paywall).
 
+* [Obama on UFOs: 'There's footage and records of objects in the skies that we don't know exactly what they are'](https://thehill.com/changing-america/sustainability/environment/554187-obama-on-ufos-theres-footage-and-records-of) - 18 May 2021
+* ["60 Minutes" segment on UAP](https://www.cbsnews.com/video/60minutes-2021-05-16/) - 16 May 2021
+* [Pentagon Confirms Leaked Video Showing "Transmedium" UFO is Authentic](https://thedebrief.org/pentagon-confirms-leaked-video-showing-transmedium-ufo-is-authentic/) - 14 May 2021
+* [The Pentagon confirmed that a video showing a triangular UFO is real and taken by the US Navy](https://ca.news.yahoo.com/pentagon-confirmed-video-showing-triangular-132753144.html) - 16 April 2021
 * [No Longer in Shadows, Pentagon’s U.F.O. Unit Will Make Some Findings Public](https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html) - 23 July 2020
 * [We Can Handle the Truth: Why Now Is the Perfect Time to End the UFO Cover-Up](https://medium.com/@brycezabel/ufo2020-d1b931d7443d) - 8 June 2020
 * [The Truth Is (Still) Out There](https://nymag.com/intelligencer/2020/05/ufos-ahoy-new-navy-report-documents-mysterious-encounters.html) - 15 May 2020
@@ -195,10 +208,12 @@ The demarcation line for these "starter kit" articles is December 2017 onward, f
 ## DISINFORMATION AGENTS AND CAMPAIGNS
 
 * [Aerial Phenomena Enquiry Network (APEN)](https://en.wikipedia.org/wiki/Aerial_Phenomena_Enquiry_Network)
+* Bill Nye
 * [Corey Goode and David Wilcock](https://www.vice.com/en_us/article/4ayyqw/david-wilcock-ufo-conspiracy-theorist-covid-19-deep-state-ascension)
 * [Center for the Study of Extraterrestrial Intelligence (CSETI)](http://www.cseti.org/)
 * [Fund for UFO Research (FUFOR)](https://en.wikipedia.org/wiki/Fund_for_UFO_Research)
 * [Richard C. Doty](https://www.mysterywire.com/ufo/spying-disinformation-accusations-follow-ufo-figure-rick-doty-an-exclusive-interview/)
+* Neil DeGrasse Tyson
 * [Phillip Klass](https://www.youtube.com/watch?v=p00K64EFT_Q)
 * Read "[Mirage Men: A Journey into Disinformation, Paranoia and UFOs](https://www.amazon.com/Mirage-Men-Journey-Disinformation-Paranoia-ebook/dp/B00OGV2JGC)" by Mark Pilkington
 
