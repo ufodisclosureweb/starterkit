@@ -152,6 +152,8 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 * [Hunt for the Skinwalker](https://www.extraordinarybeliefs.com/films#/hunt-the-skinwalker/)
 * [I Know What I Saw](https://www.youtube.com/watch?v=4I4tKI2Ea-U)
 * [The Phenomenon](https://thephenomenonfilm.com/)
+* [Does the Gimbal UFO Craft Self Rotate?](https://youtu.be/fefUZAGtCO4)
+* [The Man Who Filmed the Tic Tac UFO](https://youtu.be/xPXFcFyZma0)
 
 ## RESEARCH AND MEDIA ORGANIZATIONS
 
