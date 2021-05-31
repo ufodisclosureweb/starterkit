@@ -217,6 +217,7 @@ The demarcation line for these "starter kit" articles is December 2017 onward, f
 * [Center for the Study of Extraterrestrial Intelligence (CSETI)](http://www.cseti.org/)
 * [Fund for UFO Research (FUFOR)](https://en.wikipedia.org/wiki/Fund_for_UFO_Research)
 * [Richard C. Doty](https://www.mysterywire.com/ufo/spying-disinformation-accusations-follow-ufo-figure-rick-doty-an-exclusive-interview/)
+* Mick West
 * Neil DeGrasse Tyson
 * [Phillip Klass](https://www.youtube.com/watch?v=p00K64EFT_Q)
 * Read "[Mirage Men: A Journey into Disinformation, Paranoia and UFOs](https://www.amazon.com/Mirage-Men-Journey-Disinformation-Paranoia-ebook/dp/B00OGV2JGC)" by Mark Pilkington
