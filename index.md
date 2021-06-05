@@ -9,7 +9,13 @@ This document is for:
 * government leaders, representatives, fact finders, aides, bureaucrats
 * military rank-and-file, leaders, and investigators new to the topic
 
-This is just a beginning with a few major concepts outlined in brief. If you don't know what something is, search it out to get more detail. Any included links are meant only as starting points and examples, not as the "final word" on anything. The reader is encouraged to do their own investigation and come to their own conclusions.
+This is just a beginning with a few major concepts outlined in brief. If you don't know what something is, search it out to get more detail. Any included links are meant only as starting points and examples, not as the "final word" on anything. 
+
+
+You may count yourself in the camp of the skeptics. That's fine. Just don't make the mistake of not [questioning your own skepticism](http://www.skepticalaboutskeptics.org/examining-skeptics/daniel-drasin-zen-and-the-art-of-debunkery/) as more evidence comes to light. As Herbert Spencer once said, 
+> There is a principle which is a bar against all information, which is proof against all arguments and which cannot fail to keep a man in everlasting ignorance – that principle is contempt prior to investigation.
+
+The reader is encouraged to do their own investigation and come to their own conclusions.
 
 * [UNCLASSIFIED DOCUMENTS](#unclassified-documents)
 * [PROJECTS AND COMMITTEES](#projects-and-committees)
