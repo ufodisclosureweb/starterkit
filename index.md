@@ -65,8 +65,8 @@ The following projects and committees produced large amounts of classified and u
 
 ### Key Reports
 The Unidentified Aerial Phenomena Task Force (UAPTF) was approved by Deputy Secretary of Defense David L. Norquist on August 4, 2020. It is led by the Department of the Navy under the Office of the Under Secretary of Defense for Intelligence and Security. The link below is the preliminary assessment report published on June 25, 2021.
-[OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE - Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021]
-(https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)
+
+* [OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE - Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)
 
 ### Historical Reports
 
