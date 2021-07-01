@@ -1,6 +1,14 @@
 # The UFO Investigator Starter Kit
 
-[Instructions for contributing](#instructions-for-contributing)
+## INSTRUCTIONS FOR CONTRIBUTING
+
+If you'd like to contribute links or new information to this starter kit, here are the instructions:
+* [Clone the repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+* [Make a branch](https://guides.github.com/activities/hello-world/), make and commit changes to index.md, then submit a pull request.
+* Your pull request will be reviewed and, if accepted, will be merged to the master repository, converted to HTML, and published.
+* *If you simply want to contribute a link or two but don't want to use Github, post the link to Twitter and mention [@ufodisclosurewb](https://twitter.com/ufodisclosurewb)*
+
+## PURPOSE
 
 This document is for:
 * people new to the topic who want a solid foundation at the start of their search for answers
@@ -11,11 +19,12 @@ This document is for:
 
 This is just a beginning with a few major concepts outlined in brief. If you don't know what something is, search it out to get more detail. Any included links are meant only as starting points and examples, not as the "final word" on anything. 
 
-
 You may count yourself in the camp of the skeptics. That's fine. Just don't make the mistake of not [questioning your own skepticism](http://www.skepticalaboutskeptics.org/examining-skeptics/daniel-drasin-zen-and-the-art-of-debunkery/) as more evidence comes to light. As Herbert Spencer once said, 
 > There is a principle which is a bar against all information, which is proof against all arguments and which cannot fail to keep a man in everlasting ignorance – that principle is contempt prior to investigation.
 
 The reader is encouraged to do their own investigation and come to their own conclusions.
+
+## SECTIONS
 
 * [UNCLASSIFIED DOCUMENTS](#unclassified-documents)
 * [PROJECTS AND COMMITTEES](#projects-and-committees)
@@ -63,7 +72,14 @@ The following projects and committees produced large amounts of classified and u
 
 ## REPORTS
 
-Much of this list comes from [Richard Dolan's excellent roundup](https://www.richarddolanpress.com/twelve-government-documents). Read his summaries on them, but also read the documents themselves. Look for the logic in writing and hiding so much on something that was later considered by top brass to be nothing more than "mass hysteria" or "weather phenomena". But then even later admitted to be real and problematic for pilots.
+### Key Reports
+The Unidentified Aerial Phenomena Task Force (UAPTF) was approved by Deputy Secretary of Defense David L. Norquist on August 4, 2020. It is led by the Department of the Navy under the Office of the Under Secretary of Defense for Intelligence and Security. The link below is the preliminary assessment report published on June 25, 2021.
+
+* [OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE - Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)
+
+### Historical Reports
+
+Much of the rest of this list comes from [Richard Dolan's excellent roundup](https://www.richarddolanpress.com/twelve-government-documents). Read his summaries on them, but also read the documents themselves. Look for the logic in writing and hiding so much on something that was later considered by top brass to be nothing more than "mass hysteria" or "weather phenomena". But then even later admitted to be real and problematic for pilots.
 
 * [The 1947 Twining Memo](http://www.nicap.org/twining_letter_docs.htm)
 * [1949 FBI Memo](https://www.richarddolanpress.com/twelve-government-documents)
@@ -96,33 +112,33 @@ Much of this list comes from [Richard Dolan's excellent roundup](https://www.ric
 ## MASS SIGHTINGS
 
 * [Foo Fighters, 1944](https://youtu.be/Vf41CD5INGU)
-* Kenneth Arnold, et. al., 1947
-* Roswell NM, 1947
-* Aztec NM, 1948
-* Lubbock Lights, 1951
-* Washington, D.C., 1952
-* Levelland, 1957
-* Tehran, 1976
-* UFOs and nuclear facilities, 1948-1980s
-* Rendlesham Forest, 1980
+* [Kenneth Arnold, et. al., 1947](https://www.youtube.com/watch?v=OarL8ymktIE)
+* [Roswell NM, 1947](https://www.roswell-nm.gov/692/UFO-Story)
+* [Aztec NM, 1948](http://www.aztecnm.com/aztec/ufocrashsite.html)
+* [Lubbock Lights, 1951](https://www.ufocasebook.com/lubbocklights.html)
+* [Washington, D.C., 1952](https://www.mufon.com/ufos-over-washington-dc---1952.html)
+* [Levelland, 1957](https://www.ufocasebook.com/Levelland.html)
+* [Tehran, 1976](https://www.mufon.com/iranian-airforce-ufo-intercept---1976.html)
+* [UFOs and nuclear facilities, 1948-1980s](http://ufoevidence.org/topics/Nuclear.htm)
+* [Rendlesham Forest, 1980](https://www.ufoinsight.com/ufos/cover-ups/rendlesham-forest-incident)
 * [Hessdalen Lights, 1981](http://www.hessdalen.org/reports/scex1802217251.pdf), see documentary at [https://youtu.be/1KuCu8I_mUg](https://youtu.be/1KuCu8I_mUg)
 * [Japan Airlines Flight 1628, 1986](https://youtu.be/dMn1PiNZfkU)
-* UFOs Over Belgium, 1989-1990
+* [UFOs Over Belgium, 1989-1990](https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1990.htm)
 * [The Westall UFO encounter, 1989](https://www.youtube.com/watch?v=9qlu-2IWCQI)
 * The Phoenix Lights, 1997, [19th anniversary coverage](https://youtu.be/EOkXUvS3iX0), [2014 AZ Governor Fife Symington interview](youtube.com/watch?v=v1Fh0g5wJ7A)
 * St. Claire, Illinois Flying Triangle, 2000 - [Documentary Part 1](https://www.youtube.com/watch?v=k_vmILld-Ek), [Documentary Part 2](https://www.youtube.com/watch?v=Hjw4BCmOxWQ)
-* The Lights Above the New Jersey Turnpike, 2001
+* [The Lights Above the New Jersey Turnpike, 2001](https://www.ufocasebook.com/2008c/cateretnj2001.html)
 * [The USS Nimitz Encounter, 2004](https://www.history.com/playlists/ufo-fighter-pilots-video-playlist), ["The Tale of the Tape"](https://www.popularmechanics.com/military/research/a30538203/navy-ufo-video-investigation/)
-* The Chicago O'Hare UFO, 2006
+* [The Chicago O'Hare UFO, 2006](https://www.mufon.com/chicago-ohare-ufo---2006.html)
 * [The Stephenville Sightings, 2008](https://www.yourstephenvilletx.com/news/article_e9c944d6-ff16-54f3-8e74-8d087cfd7329.html), see also [Air Force Alters Texas UFO Explanation](https://www.npr.org/templates/story/story.php?storyId=18375952)
 * [The USS Roosevelt Encounter, 2015](https://www.history.com/playlists/ufo-fighter-pilots-video-playlist)
 * [East Coast GO FAST Video, 2015](https://www.history.com/playlists/ufo-fighter-pilots-video-playlist)
 
 ## TANGIBLE EVIDENCES
 
-* USS Nimitz and USS Roosevelt videos (confirmed as real UAP by the Pentagon and not hoaxes or explainable objects)
-* Various metamaterials from crash recoveries examined in the past or currently under examination
-* Crop circles worldwide
+* [USS Nimitz and USS Roosevelt videos](https://www.history.com/playlists/ufo-fighter-pilots-video-playlist) (confirmed as real UAP by the Pentagon and not hoaxes or explainable objects)
+* [Various metamaterials from crash recoveries examined in the past or currently under examination](https://whatsupwithufos.com/ufo-metamaterials/)
+* [Crop circles worldwide](http://www.ufoevidence.org/topics/CropCircles.htm)
 * [Praetoria, South Africa, 1965](https://www.ufocasebook.com/pretoriasouthafrica1965.html)
 * [Valensole, France, 1965](https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm)
 * [Val Johnson UFO Incident, 1979](http://highwayhighlights.com/2013/08/ufo-sheriffs-car-warren-mn/)
@@ -218,13 +234,13 @@ The demarcation line for these "starter kit" articles is December 2017 onward, f
 ## DISINFORMATION AGENTS AND CAMPAIGNS
 
 * [Aerial Phenomena Enquiry Network (APEN)](https://en.wikipedia.org/wiki/Aerial_Phenomena_Enquiry_Network)
-* Bill Nye
+* [Bill Nye](https://www.youtube.com/watch?v=sqP8So8Xe48)
 * [Corey Goode and David Wilcock](https://www.vice.com/en_us/article/4ayyqw/david-wilcock-ufo-conspiracy-theorist-covid-19-deep-state-ascension)
 * [Center for the Study of Extraterrestrial Intelligence (CSETI)](http://www.cseti.org/)
 * [Fund for UFO Research (FUFOR)](https://en.wikipedia.org/wiki/Fund_for_UFO_Research)
 * [Richard C. Doty](https://www.mysterywire.com/ufo/spying-disinformation-accusations-follow-ufo-figure-rick-doty-an-exclusive-interview/)
-* Mick West
-* Neil DeGrasse Tyson
+* [Mick West](https://thehill.com/opinion/national-security/559433-the-worlds-most-passionate-ufo-skeptic-versus-the-government)
+* [Neil DeGrasse Tyson](https://www.msn.com/en-us/news/breaking-news/see-neil-degrasse-tyson-debunk-alien-believers-after-biden-pentagons-ufo-report/vi-AALDIdf)
 * [Phillip Klass](https://www.youtube.com/watch?v=p00K64EFT_Q)
 * Read "[Mirage Men: A Journey into Disinformation, Paranoia and UFOs](https://www.amazon.com/Mirage-Men-Journey-Disinformation-Paranoia-ebook/dp/B00OGV2JGC)" by Mark Pilkington
 
@@ -250,10 +266,3 @@ The "Zoo Hypothesis" by John A. Ball [https://www.haystack.mit.edu/hay/staff/jba
 ## MISCELLANEOUS EVIDENCES
 
 * [My favourite links regarding the phenomenon...](https://www.reddit.com/r/UFObelievers/comments/hhbfr3/my_favourite_links_regarding_the_phenomenon_there/)
-
-## INSTRUCTIONS FOR CONTRIBUTING
-
-If you'd like to contribute links or new information to this starter kit, here are the instructions:
-* [Clone the repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
-* [Make a branch](https://guides.github.com/activities/hello-world/), make and commit changes to index.md, then submit a pull request.
-* Your pull request will be reviewed and, if accepted, will be merged to the master repository, converted to HTML, and published.
