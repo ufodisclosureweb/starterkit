@@ -123,7 +123,7 @@ Much of the rest of this list comes from [Richard Dolan's excellent roundup](htt
 * [Rendlesham Forest, 1980](https://www.ufoinsight.com/ufos/cover-ups/rendlesham-forest-incident)
 * [Hessdalen Lights, 1981](http://www.hessdalen.org/reports/scex1802217251.pdf), see documentary at [https://youtu.be/1KuCu8I_mUg](https://youtu.be/1KuCu8I_mUg)
 * [Japan Airlines Flight 1628, 1986](https://youtu.be/dMn1PiNZfkU)
-* UFOs Over Belgium, 1989-1990
+* [UFOs Over Belgium, 1989-1990](https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1990.htm)
 * [The Westall UFO encounter, 1989](https://www.youtube.com/watch?v=9qlu-2IWCQI)
 * The Phoenix Lights, 1997, [19th anniversary coverage](https://youtu.be/EOkXUvS3iX0), [2014 AZ Governor Fife Symington interview](youtube.com/watch?v=v1Fh0g5wJ7A)
 * St. Claire, Illinois Flying Triangle, 2000 - [Documentary Part 1](https://www.youtube.com/watch?v=k_vmILld-Ek), [Documentary Part 2](https://www.youtube.com/watch?v=Hjw4BCmOxWQ)
