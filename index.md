@@ -257,11 +257,19 @@ The "Zoo Hypothesis" by John A. Ball [https://www.haystack.mit.edu/hay/staff/jba
 
 ## RELIGIONS AND ANCIENT CULTURE
 
+* Egypt and The Great Pyramid
+  * [The GPS coordinates of the Great Pyramid encode the speed-of-light, Pi, and the Euler constant. Why?](https://thedebate.org/2019/08/25/the-gps-coordinates-of-the-great-pyramid-encode-the-speed-of-light-pi-and-the-euler-constant/)
+  * [UFOs Over Ancient Egypt? Revealing the Mysterious Story of the Tulli Papyrus](https://www.ancient-origins.net/artifacts-ancient-writings/ufos-over-ancient-egypt-revealing-mysterious-story-tulli-papyrus-007851)
 * Nazca Lines
+  * [Alien UFO Information - Nazca Lines, Inca](https://alien-ufo-information.blogspot.com/2011/11/nazca-lines-inca.html)
 * Puma Punku
+  * [Puma Punku and the Ancient Alien Theory](http://www.alienufotruth.com/puma-punku-and-the-ancient-alien-theory/)
 * Mayans
+  * [Mayan UFO Artifacts](https://www.tarrdaniel.com/documents/Ufology/maya_ufo_artifact.html) 
 * Sumerians
+  * [The 10th Sumerian Tablet: The Anunnaki Built the Pyramids](https://alien-ufo-sightings.com/2015/10/the-10th-sumerian-tablet-the-anunnaki-built-the-pyramids/)
 * Native Americans
+  * [Here's Why Native Americans Have No Fear Of Aliens](https://alien-ufo-sightings.com/2018/12/heres-why-native-americans-have-no-fear-of-aliens/)
 
 ## MISCELLANEOUS EVIDENCES
 
