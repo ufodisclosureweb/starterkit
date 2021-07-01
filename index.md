@@ -63,7 +63,14 @@ The following projects and committees produced large amounts of classified and u
 
 ## REPORTS
 
-Much of this list comes from [Richard Dolan's excellent roundup](https://www.richarddolanpress.com/twelve-government-documents). Read his summaries on them, but also read the documents themselves. Look for the logic in writing and hiding so much on something that was later considered by top brass to be nothing more than "mass hysteria" or "weather phenomena". But then even later admitted to be real and problematic for pilots.
+### Key Reports
+The Unidentified Aerial Phenomena Task Force (UAPTF) was approved by Deputy Secretary of Defense David L. Norquist on August 4, 2020. It is led by the Department of the Navy under the Office of the Under Secretary of Defense for Intelligence and Security. The link below is the preliminary assessment report published on June 25, 2021.
+[OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE - Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021]
+(https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)
+
+### Historical Reports
+
+Much of the rest of this list comes from [Richard Dolan's excellent roundup](https://www.richarddolanpress.com/twelve-government-documents). Read his summaries on them, but also read the documents themselves. Look for the logic in writing and hiding so much on something that was later considered by top brass to be nothing more than "mass hysteria" or "weather phenomena". But then even later admitted to be real and problematic for pilots.
 
 * [The 1947 Twining Memo](http://www.nicap.org/twining_letter_docs.htm)
 * [1949 FBI Memo](https://www.richarddolanpress.com/twelve-government-documents)
