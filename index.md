@@ -33,6 +33,7 @@ The reader is encouraged to do their own investigation and come to their own con
 * [MASS SIGHTINGS](#mass-sightings)
 * [TANGIBLE EVIDENCES](#tangible-evidences)
 * [BOOKS](#books)
+* [VIDEOS AND PODCASTS](#videos-and-podcasts)
 * [DOCUMENTARIES](#documentaries)
 * [RESEARCH AND MEDIA ORGANIZATIONS](#research-and-media-organizations)
 * [NEWS COVERAGE](#news-coverage-and-opinion-articles-since-december-2017)
@@ -40,7 +41,7 @@ The reader is encouraged to do their own investigation and come to their own con
 * [DISINFORMATION AGENTS AND CAMPAIGNS](#disinformation-agents-and-campaigns)
 * [THEORIES OF ORIGINS](#theories-of-origins)
 * [CLOSE ENCOUNTERS AND ABDUCTIONS](#close-encounters-and-abductions)
-* [RELIGIONS AND ANCIENT CULTURE](#religions-and-culture)
+* [RELIGIONS AND ANCIENT CULTURE](#religions-and-ancient-culture)
 * [MISCELLANEOUS EVIDENCES](#miscellaneous-evidences)
 
 ## UNCLASSIFIED DOCUMENTS
@@ -165,6 +166,9 @@ Much of the rest of this list comes from [Richard Dolan's excellent roundup](htt
 * [“Messengers of Deception”](https://www.amazon.com/Messengers-Deception-UFO-Contacts-Cults/dp/097572004X) by Jacques Vallee
 * [“The Invisible College: What a Group of Scientists Has Discovered about UFO Influence on the Human Race”](https://www.amazon.com/Invisible-College-Scientists-Discovered-Influence/dp/1938398270) by Jacques Vallee
 * [“Unconventional Flying Objects”](https://www.amazon.com/Unconventional-Flying-Objects-Scientific-Analysis/dp/1571740279) by Paul R. Hill
+
+## VIDEOS AND PODCASTS
+* [Massive spreadsheet list of podcasts, video, and media coverage about the Phenomenon](https://docs.google.com/spreadsheets/d/1isNhyQJgwzp-Ca3VPoAZrGeEO-1gYdnqKJB4RkCeLlg/htmlview?fbclid=IwAR3tD-iCwXuTSfV4OLbwM-vvxpSm6dOxe8WphhefuNYmuBBYXbSqiENJJLY)
 
 ## DOCUMENTARIES
 * [Extraordinary: The Seeding](https://www.amazon.com/gp/video/detail/B0813HST53/ref=atv_dl_rdr?autoplay=1)
