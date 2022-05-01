@@ -42,6 +42,7 @@ The reader is encouraged to do their own investigation and come to their own con
 * [THEORIES OF ORIGINS](#theories-of-origins)
 * [CLOSE ENCOUNTERS AND ABDUCTIONS](#close-encounters-and-abductions)
 * [RELIGIONS AND ANCIENT CULTURE](#religions-and-ancient-culture)
+* [OTHER TIMELINES AND MEGALISTS](#other-timelines-and-megalists)
 * [MISCELLANEOUS EVIDENCES](#miscellaneous-evidences)
 
 ## UNCLASSIFIED DOCUMENTS
@@ -274,6 +275,10 @@ The "Zoo Hypothesis" by John A. Ball [https://www.haystack.mit.edu/hay/staff/jba
   * [The 10th Sumerian Tablet: The Anunnaki Built the Pyramids](https://alien-ufo-sightings.com/2015/10/the-10th-sumerian-tablet-the-anunnaki-built-the-pyramids/)
 * Native Americans
   * [Here's Why Native Americans Have No Fear Of Aliens](https://alien-ufo-sightings.com/2018/12/heres-why-native-americans-have-no-fear-of-aliens/)
+
+## OTHER TIMELINES AND MEGALISTS
+* [UFOTimeline.com](https://ufotimeline.com)
+* [UFOPanel.com](https://ufopanel.com)
 
 ## MISCELLANEOUS EVIDENCES
 
