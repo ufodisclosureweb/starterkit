@@ -63,6 +63,7 @@ __Note:__ Just because something is unclassified doesn't mean there was no good 
 
 The following projects and committees produced large amounts of classified and unclassified documentation, reports, studies, and other media on UFOs. They are referenced in numerous books and other publications about UFOs. It's important to know their names, timelines, players, and conclusions when consuming the materials they produced.
 
+* [NASA Unidentified Aerial Phenomena Study](https://www.nasa.gov/feature/nasa-to-set-up-independent-study-on-unidentified-aerial-phenomena/)
 * [Project Sign](https://www.bibliotecapleyades.net/sociopolitica/sign/sign.htm)
 * [Project Grudge](https://en.wikipedia.org/wiki/Project_Grudge#The_Grudge_report)
 * [Project Blue Book](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)
@@ -204,6 +205,7 @@ Much of the rest of this list comes from [Richard Dolan's excellent roundup](htt
 
 The demarcation line for these "starter kit" articles is December 2017 onward, from when the New York Times broke the story about AATIP until now, in reverse chronological order. Other articles may be added from earlier for reference, but this is "what matters most", currently, in terms of legitimizing and destigmatizing the topic. Prior articles were always plausibly deniable given that the government hadn't yet seen fit to release (or allow to leak) materials with unbroken chains of custody or to acknowledge these craft exist. Older stories are now of much more worth given recent developments. Whenever possible, stories below are linked according to free availability (no paywall).
 
+* [Congressional Hearings on UAP: Four Surprises That Came Up During Tuesday's House Panel](https://thedebrief.org/congressional-hearings-on-uap-four-surprises-that-came-up-during-tuesdays-house-panel/)
 * [The Hidden History of How Washington Embraced UFOs](https://www.politico.com/news/magazine/2021/05/28/ufos-secret-history-government-washington-dc-487900) - 28 May 2021
 * [Obama on UFOs: 'There's footage and records of objects in the skies that we don't know exactly what they are'](https://thehill.com/changing-america/sustainability/environment/554187-obama-on-ufos-theres-footage-and-records-of) - 18 May 2021
 * ["60 Minutes" segment on UAP](https://www.cbsnews.com/video/60minutes-2021-05-16/) - 16 May 2021
