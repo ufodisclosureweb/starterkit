@@ -173,6 +173,7 @@ Much of the rest of this list comes from [Richard Dolan's excellent roundup](htt
 * [Massive spreadsheet list of podcasts, video, and media coverage about the Phenomenon](https://docs.google.com/spreadsheets/d/1isNhyQJgwzp-Ca3VPoAZrGeEO-1gYdnqKJB4RkCeLlg/htmlview?fbclid=IwAR3tD-iCwXuTSfV4OLbwM-vvxpSm6dOxe8WphhefuNYmuBBYXbSqiENJJLY)
 
 ## DOCUMENTARIES
+* [Ross Coulthart UFOs Aug 21 2022](https://youtu.be/ubglqWUACYk)
 * [Extraordinary: The Seeding](https://www.amazon.com/gp/video/detail/B0813HST53/ref=atv_dl_rdr?autoplay=1)
 * [Anonymous Interview](https://www.extraordinarybeliefs.com/films#/anonymous-interview/)
 * [Patient Seventeen](https://www.extraordinarybeliefs.com/films#/patient-seventeen/)
