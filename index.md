@@ -28,6 +28,7 @@ The reader is encouraged to do their own investigation and come to their own con
 
 * [UNCLASSIFIED DOCUMENTS](#unclassified-documents)
 * [PROJECTS AND COMMITTEES](#projects-and-committees)
+* [CONGRESSIONAL STATEMENTS AND ACTIONS](#congressional-statements-and-actions)
 * [REPORTS](#reports)
 * [TESTIMONIES OF HIGHLY-CREDIBLE OBSERVERS](#testimonies-of-highly-credible-observers)
 * [MASS SIGHTINGS](#mass-sightings)
@@ -72,6 +73,11 @@ The following projects and committees produced large amounts of classified and u
 * [Bigelow Aerospace Advanced Space Studies (BAASS)](https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos/)
 * [Advanced Aerospace Weapon Systems Applications Program (AAWSAP)](https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/)
 * [Audio of events and interviews around key UFO projects and committees](https://archive.org/search.php?query=1951+USAF+Intelligence+Report)
+
+## CONGRESSIONAL STATEMENTS AND ACTIONS
+
+* [Archive of U.S. Congressional Statements & Actions on UAP, with Transparency Ratings](http://www.justinscottsnead.com/archive-of-u-s-congressional-statements-actions-on-uap-with-transparency-ratings/)
+* [Timeline of U.S. Congressional Action on UAP (2007 to Present)](http://www.justinscottsnead.com/timeline-of-u-s-congressional-action-on-uap-2007-to-present/)
 
 ## REPORTS
 
