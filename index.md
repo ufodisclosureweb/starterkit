@@ -64,7 +64,7 @@ __Note:__ Just because something is unclassified doesn't mean there was no good 
 
 The following projects and committees produced large amounts of classified and unclassified documentation, reports, studies, and other media on UFOs. They are referenced in numerous books and other publications about UFOs. It's important to know their names, timelines, players, and conclusions when consuming the materials they produced.
 
-* [NASA Unidentified Aerial Phenomena Study](https://www.nasa.gov/feature/nasa-to-set-up-independent-study-on-unidentified-aerial-phenomena/)
+* [NASA Unidentified Aerial Phenomena Study](https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/)
 * [Project Sign](https://www.bibliotecapleyades.net/sociopolitica/sign/sign.htm)
 * [Project Grudge](https://en.wikipedia.org/wiki/Project_Grudge#The_Grudge_report)
 * [Project Blue Book](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)
