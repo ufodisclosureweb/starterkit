@@ -111,6 +111,7 @@ Much of the rest of this list comes from [Richard Dolan's excellent roundup](htt
 
 ## TESTIMONIES OF HIGHLY-CREDIBLE OBSERVERS
 
+* Watch "[The Gimbal UAP/UFO Event](https://www.youtube.com/watch?v=AcwjTImVBl8&t=1s)"
 * Read "[Strange Skies: Pilot Encounters With UFOs](https://amazon.com/s?k=9780806522999)" 
 * Read "[UFOs & Nukes: Extraordinary Encounters at Nuclear Weapons Sites](https://amazon.com/UFOs-Nukes-Extraordinary-Encounters-Nuclear-ebook/dp/B084DJMQ4S)" 
 * Watch "[Unidentified: Inside America’s UFO Investigation](https://www.history.com/shows/unidentified-inside-americas-ufo-investigation)" with Navy pilot David Fravor
