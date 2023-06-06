@@ -258,6 +258,7 @@ The demarcation line for these "starter kit" articles is December 2017 onward, f
 * [Mick West](https://thehill.com/opinion/national-security/559433-the-worlds-most-passionate-ufo-skeptic-versus-the-government)
 * [Neil DeGrasse Tyson](https://www.msn.com/en-us/news/breaking-news/see-neil-degrasse-tyson-debunk-alien-believers-after-biden-pentagons-ufo-report/vi-AALDIdf)
 * [Phillip Klass](https://www.youtube.com/watch?v=p00K64EFT_Q)
+* [Steven Greenstreet](https://www.youtube.com/watch?v=_g8ruYINDzI&t=3562s)
 * Read "[Mirage Men: A Journey into Disinformation, Paranoia and UFOs](https://www.amazon.com/Mirage-Men-Journey-Disinformation-Paranoia-ebook/dp/B00OGV2JGC)" by Mark Pilkington
 
 ## THEORIES OF ORIGINS
