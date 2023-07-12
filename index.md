@@ -289,6 +289,7 @@ The "Zoo Hypothesis" by John A. Ball [https://www.haystack.mit.edu/hay/staff/jba
   * [Here's Why Native Americans Have No Fear Of Aliens](https://alien-ufo-sightings.com/2018/12/heres-why-native-americans-have-no-fear-of-aliens/)
 
 ## OTHER TIMELINES AND MEGALISTS
+* [WhatsUpWithUFOs.com Lightning Overview](https://whatsupwithufos.com/overview/)
 * [UFOTimeline.com](https://ufotimeline.com)
 * [UFOPanel.com](https://ufopanel.com)
 
