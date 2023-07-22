@@ -109,7 +109,7 @@ Much of the rest of this list comes from [Richard Dolan's excellent roundup](htt
 * "[UFO Files](https://that1archive.neocities.org/subfolder1/ufo-files.html)", by UFO researcher Emma Best ([@NatSecGeek](https://twitter.com/NatSecGeek) on Twitter), contains a list of raw document files from projects in various countries from the United States to France to Panama.
 * [The Pentagon 1997 UFO Briefing](https://omnitalkradio.weebly.com/pentagon-ufo-briefing.html) as compiled by Giuliano Marinkovic
 
-## TESTIMONIES OF HIGHLY-CREDIBLE OBSERVERS
+## TESTIMONIES OF HIGHLY CREDIBLE OBSERVERS
 
 * Watch "[The Gimbal UAP/UFO Event](https://www.youtube.com/watch?v=AcwjTImVBl8&t=1s)"
 * Read "[Strange Skies: Pilot Encounters With UFOs](https://amazon.com/s?k=9780806522999)" 
@@ -177,6 +177,7 @@ Much of the rest of this list comes from [Richard Dolan's excellent roundup](htt
 * [“Unconventional Flying Objects”](https://www.amazon.com/Unconventional-Flying-Objects-Scientific-Analysis/dp/1571740279) by Paul R. Hill
 
 ## VIDEOS AND PODCASTS
+* [Aviator John Lear talks flying saucers at Groom Lake, UFO disclosure, Bob Lazar & Area 51](https://www.youtube.com/watch?v=Qd-G0E-q184)
 * [Massive spreadsheet list of podcasts, video, and media coverage about the Phenomenon](https://docs.google.com/spreadsheets/d/1isNhyQJgwzp-Ca3VPoAZrGeEO-1gYdnqKJB4RkCeLlg/htmlview?fbclid=IwAR3tD-iCwXuTSfV4OLbwM-vvxpSm6dOxe8WphhefuNYmuBBYXbSqiENJJLY)
 
 ## DOCUMENTARIES
