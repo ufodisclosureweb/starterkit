@@ -3,7 +3,7 @@
 ## INSTRUCTIONS FOR CONTRIBUTING
 
 If you'd like to contribute links or new information to this starter kit, here are the instructions:
-* [Clone the repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+* [Clone the repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). The repository is [here](https://github.com/ufodisclosureweb).
 * [Make a branch](https://guides.github.com/activities/hello-world/), make and commit changes to index.md, then submit a pull request.
 * Your pull request will be reviewed and, if accepted, will be merged to the master repository, converted to HTML, and published.
 * *If you simply want to contribute a link or two but don't want to use Github, post the link to Twitter and mention [@ufodisclosurewb](https://twitter.com/ufodisclosurewb)*
@@ -181,7 +181,8 @@ Much of the rest of this list comes from [Richard Dolan's excellent roundup](htt
 * [Massive spreadsheet list of podcasts, video, and media coverage about the Phenomenon](https://docs.google.com/spreadsheets/d/1isNhyQJgwzp-Ca3VPoAZrGeEO-1gYdnqKJB4RkCeLlg/htmlview?fbclid=IwAR3tD-iCwXuTSfV4OLbwM-vvxpSm6dOxe8WphhefuNYmuBBYXbSqiENJJLY)
 
 ## DOCUMENTARIES
-* [Ross Coulthart UFOs Aug 21 2022](https://youtu.be/ubglqWUACYk)
+* [The Secret of Skinwalker Ranch - Docuseries - Multiple Seasons](https://www.history.com/shows/the-secret-of-skinwalker-ranch)
+* [Ross Coulthart UFOs Aug 21, 2022](https://youtu.be/ubglqWUACYk)
 * [Extraordinary: The Seeding](https://www.amazon.com/gp/video/detail/B0813HST53/ref=atv_dl_rdr?autoplay=1)
 * [Anonymous Interview](https://www.extraordinarybeliefs.com/films#/anonymous-interview/)
 * [Patient Seventeen](https://www.extraordinarybeliefs.com/films#/patient-seventeen/)
@@ -195,6 +196,7 @@ Much of the rest of this list comes from [Richard Dolan's excellent roundup](htt
 
 ## RESEARCH AND MEDIA ORGANIZATIONS
 
+* [Brandon Fugal and the Skinwalker Ranch team](https://skinwalker-ranch.com/)
 * [Center for UFO Studies (CUFOS or JAHCUFOS)](http://www.cufos.org/)
 * [International UFO Congress (IUFOC)](https://ufocongress.com/)
 * [Mutual UFO Network (MUFON)](https://www.mufon.com/)
