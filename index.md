@@ -88,21 +88,21 @@ The Unidentified Aerial Phenomena Task Force (UAPTF) was approved by Deputy Secr
 
 ### Historical Reports
 
-Much of the rest of this list comes from [Richard Dolan's excellent roundup](https://www.richarddolanpress.com/twelve-government-documents). Read his summaries on them, but also read the documents themselves. Look for the logic in writing and hiding so much on something that was later considered by top brass to be nothing more than "mass hysteria" or "weather phenomena". But then even later admitted to be real and problematic for pilots.
+Much of the rest of this list comes from [Richard Dolan's excellent roundup](https://richardmdolan.wixsite.com/rdpress/twelve-government-documents). Read his summaries on them, but also read the documents themselves. Look for the logic in writing and hiding so much on something that was later considered by top brass to be nothing more than "mass hysteria" or "weather phenomena". But then even later admitted to be real and problematic for pilots.
 
 * [The 1947 Twining Memo](http://www.nicap.org/twining_letter_docs.htm)
-* [1949 FBI Memo](https://www.richarddolanpress.com/twelve-government-documents)
-* [1951 USAF Intelligence Report](https://www.richarddolanpress.com/twelve-government-documents)
+* [1949 FBI Memo](https://richardmdolan.wixsite.com/rdpress/twelve-government-documents)
+* [1951 USAF Intelligence Report](https://richardmdolan.wixsite.com/rdpress/twelve-government-documents)
 * [The Robertson Panel](https://www.cia.gov/library/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf)
-* [The Chadwell Memo of December 2, 1952](https://www.richarddolanpress.com/twelve-government-documents)
-* [1954 Maxwell AFB Emergency Report](https://www.richarddolanpress.com/twelve-government-documents)
-* [Intrusion at Minot Air Force Base, 1966](https://www.richarddolanpress.com/twelve-government-documents)
-* [Malmstrom AFB 1967](https://www.richarddolanpress.com/twelve-government-documents)
-* [Wurtsmith Air Force Base, 1975](https://www.richarddolanpress.com/twelve-government-documents)
-* [The Amazing Encounter over Tehran in 1976](https://www.richarddolanpress.com/twelve-government-documents)
-* [The 1981 Halt Memo](https://www.richarddolanpress.com/twelve-government-documents)
-* [U.S. Coast Guard Encounter with a UFO, 1988](https://www.richarddolanpress.com/twelve-government-documents)
-* [UFOs Over Belgium, 1989-1990](https://www.richarddolanpress.com/twelve-government-documents)
+* [The Chadwell Memo of December 2, 1952](https://richardmdolan.wixsite.com/rdpress/twelve-government-documents)
+* [1954 Maxwell AFB Emergency Report](https://richardmdolan.wixsite.com/rdpress/twelve-government-documents)
+* [Intrusion at Minot Air Force Base, 1966](https://richardmdolan.wixsite.com/rdpress/twelve-government-documents)
+* [Malmstrom AFB 1967](https://richardmdolan.wixsite.com/rdpress/twelve-government-documents)
+* [Wurtsmith Air Force Base, 1975](https://richardmdolan.wixsite.com/rdpress/twelve-government-documents)
+* [The Amazing Encounter over Tehran in 1976](https://richardmdolan.wixsite.com/rdpress/twelve-government-documents)
+* [The 1981 Halt Memo](https://richardmdolan.wixsite.com/rdpress/twelve-government-documents)
+* [U.S. Coast Guard Encounter with a UFO, 1988](https://richardmdolan.wixsite.com/rdpress/twelve-government-documents)
+* [UFOs Over Belgium, 1989-1990](https://richardmdolan.wixsite.com/rdpress/twelve-government-documents)
 * [Physical Evidence Related to UFO Reports: The Proceedings of a Workshop Held at the Pocantico Conference Center, Tarrytown, New York, September 29 - October 4,1997](https://www.scientificexploration.org/docs/12/jse_12_2_sturrock.pdf)
 * [The Wilson Memo](https://richarddolanmembers.com/articles/the-wilson-leak-latest-developments/), see also [The Ultimate Breakdown of the Admiral Wilson Leaks](https://www.youtube.com/watch?v=F5P04uI2hu0)
 * [The UFO Evidence (NICAP)](https://www.cia.gov/library/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf)
